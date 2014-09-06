@@ -1,0 +1,8 @@
+{
+  "name": "PHP FlexiParser",
+  "autoload": {
+    "psr-4": {
+      "Donquixote\\FlexiParser\\": "src"
+    }
+  }
+}
