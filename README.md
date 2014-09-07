@@ -6,8 +6,8 @@ There are a lot of predefined grammar elements, but you can create new ones as y
 
 ## Warning!
 
-After starting this library, I found this one:
-https://packagist.org/packages/vektah/parser-combinator
+After starting this library, I found this one:  
+https://packagist.org/packages/vektah/parser-combinator  
 https://github.com/Vektah/parser-combinator
 
 Turns out this really does all that I had planned for this library.
