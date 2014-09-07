@@ -4,6 +4,16 @@ This library allows to quickly define custom grammars from modular elements, and
 There are a lot of predefined grammar elements, but you can create new ones as you see fit.
 
 
+## Warning!
+
+After starting this library, I found this one:
+https://packagist.org/packages/vektah/parser-combinator
+https://github.com/Vektah/parser-combinator
+
+Turns out this really does all that I had planned for this library.
+So, I recommend to use Vektah's parser combinator instead.
+
+
 ## Development status
 
 This is currently in a very early preview stage. A lot of classes will probably be renamed, etc.
